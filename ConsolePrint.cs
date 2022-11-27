@@ -13,7 +13,7 @@ public static class ConsolePrint
     {
         Print(message, ConsoleColor.Blue);
     }
-    
+
     public static void PrintError(string message)
     {
         Print(message, ConsoleColor.Red);
